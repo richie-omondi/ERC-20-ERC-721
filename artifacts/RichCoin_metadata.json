@@ -147,25 +147,6 @@
 				"type": "function"
 			},
 			{
-				"inputs": [
-					{
-						"internalType": "address",
-						"name": "receiver",
-						"type": "address"
-					}
-				],
-				"name": "buyToken",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "payable",
-				"type": "function"
-			},
-			{
 				"inputs": [],
 				"name": "decimals",
 				"outputs": [
@@ -481,11 +462,11 @@
 			]
 		},
 		"contract-3fcecc4c62.sol": {
-			"keccak256": "0x974463d4d11acf18464fa8ab3decd8b6038657f3e4e8d297ee4fe8a7050acd13",
+			"keccak256": "0x006693cd0ae957245c43e2150f865089f16994a376003685cea43b65df89d753",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://42377b180a0878c2e6ead4f5a4fd58d55db638e7780838bc1030419d9e51f991",
-				"dweb:/ipfs/QmUXyabq2SVgtn3xGBDDiNcavRZbCdFT3J3rcK17MiEVFL"
+				"bzz-raw://078b1ecbce1b17c033edb9901c683923afc3ab9e94f900a9d4bfd13e150f8754",
+				"dweb:/ipfs/QmQ7bo7samUPigDa8wkxggPG83uBHkDqwN3KGY2uMTorGV"
 			]
 		}
 	},
